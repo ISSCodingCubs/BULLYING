@@ -4,7 +4,7 @@ Copy
 Edit
 # Anti-Bullying Awareness Website 🌈
 
-This is a simple and educational website designed to raise awareness about bullying, its different forms, and ways children and young people can protect themselves and seek help.
+This is a simple and educational website designed to raise awareness about bullying, its different forms, and ways children and young people can protect themselves and seek help. This project is hosted byh Netlify https://cerulean-twilight-ee545c.netlify.app/
 
 ## 📚 Website Contents
 
